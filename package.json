@@ -1,0 +1,31 @@
+{
+  "name": "count-sorted",
+  "version": "0.0.1",
+  "description": "Count the number of elements in a sorted collection less than, equal, or greater than the given value",
+  "main": "equal.js",
+  "scripts": {
+    "test": "eslint . && tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoubin/count-sorted.git"
+  },
+  "keywords": [
+    "count",
+    "sorted",
+    "indexOf",
+    "array",
+    "string",
+    "collection"
+  ],
+  "author": "zoubin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoubin/count-sorted/issues"
+  },
+  "homepage": "https://github.com/zoubin/count-sorted#readme",
+  "devDependencies": {
+    "eslint": "^1.3.1",
+    "tap": "^1.3.2"
+  }
+}
